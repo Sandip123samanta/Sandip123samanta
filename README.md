@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Sandip123samanta/Sandip123samanta/blob/main/Group%202.png)
 <h1 align="center">Hi 👋, I'm Sandip Samanta</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
