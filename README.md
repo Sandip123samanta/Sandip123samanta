@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back-end Development**.
 
-- 👨‍💻 All of my projects are available at [https://master--stellar-peony-0182b6.netlify.app/](thecurate.netlify.app)
+- 👨‍💻 All of my projects are available at [thecurate.netlify.app](thecurate.netlify.app)
 
 - 📫 How to reach me **samanthasandip565@gmail.com**
 
