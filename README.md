@@ -45,5 +45,8 @@
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
+:star: GitHub Stats       |  📚  📚  📚  📚  📚
+:------------------------:|:----------------------: 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandip123samanta&) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandip123samanta&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandip123samanta&" alt="sandip123samanta" /></p>
+[![An image of @sandip123samanta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandip123samanta)](https://holopin.io/@sandip123samanta)
