@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Back-end Development**.
 
-- 👨‍💻 All of my projects are available at [CURATE - the Paper Portfolio](https://thecurate.netlify.app/)
-
 - 📫 How to reach me **samanthasandip565@gmail.com**
 
 - ⚡ Fun fact **I am not funny😂**
